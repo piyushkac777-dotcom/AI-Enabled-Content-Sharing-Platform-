@@ -30,7 +30,7 @@ const connectDB = async () => {
   if (!cached.promise) {
     const opts = {
       dbName,
-      serverSelectionTimeoutMS: 5000, // Timeout after 5s instead of hanging
+      serverSelectionTimeoutMS: 15000, // Timeout after 15s for reliable connection
     };
 
     cached.promise = mongoose
