@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🥷 Akatsuki’s Draft: AI-Enabled Content Sharing Platform (Backend)
 ### 🏆 Nodevember 4.0 Submission
 
@@ -233,3 +234,7 @@ We have created `postman_collection.json` in the root folder. It includes all ro
 }
 ```
 >>>>>>> 1d24834 (feat: complete Akatsuki's Draft backend implementation for Nodevember 4.0)
+=======
+# nodealpha-4-
+AI-powered content-sharing platform built with Node.js, Express.js, MongoDB, and Google Gemini AI, featuring user authentication, content management, and AI-assisted content improvement.   Copy description
+>>>>>>> 71f74dd209b207450572b82c0003e95f1a0d77a4
